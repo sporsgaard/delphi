@@ -1,0 +1,8 @@
+# Created by sporsgaard
+
+__history/
+[Dd]ebug/
+
+#
+*.local
+*.identcache
